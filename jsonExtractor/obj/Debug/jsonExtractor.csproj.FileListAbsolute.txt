@@ -1,0 +1,11 @@
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\bin\Debug\jsonExtractor.exe.config
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\obj\Debug\jsonExtractor.csprojResolveAssemblyReference.cache
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\bin\Debug\jsonExtractor.exe
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\bin\Debug\jsonExtractor.pdb
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\bin\Debug\Newtonsoft.Json.dll
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\bin\Debug\Newtonsoft.Json.xml
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\obj\Debug\jsonExtractor.exe
+c:\users\logan.pletcher\documents\visual studio 2015\Projects\jsonExtractor\jsonExtractor\obj\Debug\jsonExtractor.pdb
+C:\Users\logan.pletcher\Documents\GitHub\json_Projects\jsonExtractor\jsonExtractor\bin\Debug\jsonExtractor.exe.config
+C:\Users\logan.pletcher\Documents\GitHub\json_Projects\jsonExtractor\jsonExtractor\obj\Debug\jsonExtractor.exe
+C:\Users\logan.pletcher\Documents\GitHub\json_Projects\jsonExtractor\jsonExtractor\obj\Debug\jsonExtractor.pdb
